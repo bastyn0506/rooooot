@@ -1,0 +1,3 @@
+[[john the ripper]]
+
+[[hashcat]]

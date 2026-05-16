@@ -1,0 +1,1 @@
+.\SharpHound.exe -c all -d eighteen.htb --domaincontroller 10.10.11.95

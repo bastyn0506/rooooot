@@ -1,0 +1,1 @@
+dig @10.129.230.181 support.htb any
